@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {faLinkedin,faSquareWhatsapp,faSquareGithub,faSquareInstagram,faTelegram} from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope,faBell,faSquarePhone,faLocationDot,faBookOpen} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
@@ -8,6 +9,12 @@ import { faEnvelope,faBell,faSquarePhone,faLocationDot,faBookOpen} from '@fortaw
 })
 export class AppComponent {
   title = 'CARD';
+
+  faLinkedin=faLinkedin;
+  faSquareWhatsapp=faSquareWhatsapp;
+  faSquareGithub=faSquareGithub;
+  faSquareInstagram=faSquareInstagram;
+  faTelegram=faTelegram;
 
   faEnvelope=faEnvelope;
   faBell=faBell;
