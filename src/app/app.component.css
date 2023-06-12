@@ -1,7 +1,7 @@
 .tutor-card{
         margin:5% 1% 1% 1%;
         border-radius: 20px;
-        width:350px;
+        width:370px;
         height:630px;
         background-color:white;
         box-shadow: 10px 2px 50px 10px #ddd;
@@ -21,11 +21,11 @@
         background-color: white;
         margin: auto;
 }
-.cover-picture h3,p{
+.cover-picture h2,p{
         color:#fff;
         margin-top:15px;
 }
-.cover-picture h3{
+.cover-picture h2{
         font-weight: 800;
 }
 .contact-details{
